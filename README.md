@@ -95,9 +95,7 @@ ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 
 打开 Google 官方安全页面：
 
-```text
-https://myaccount.google.com/security
-```
+**https://myaccount.google.com/security**
 
 手机端路径：
 
@@ -117,9 +115,7 @@ Google头像 → 管理你的Google账号 → 安全性
 
 然后找到：
 
-```text
-身份验证器应用
-```
+**身份验证器应用**
 
 ---
 
@@ -127,20 +123,19 @@ Google头像 → 管理你的Google账号 → 安全性
 
 点击：
 
-```text
-更换身份验证器应用
-```
+**更换身份验证器应用**
 
 如果无法扫码，可选择：
 
-```text
-无法扫描二维码
-```
+**无法扫描二维码**
 
-系统会生成新的：
+⚠️ **个人建议**
+如果是自己使用，建议直接：
 
-- 二维码
-- TOTP密钥
+下载验证器App：**Authenticator**
+- 注册验证器App
+- 扫码绑定
+- 同时截图保存二维码，这样可以减少后续风险。
 
 ---
 
@@ -154,7 +149,7 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 这里非常重要：
 
-> 必须先复制并保存，再点击“下一步”。
+> 必须先**复制并保存**，再点击“下一步”。
 
 因为：
 
