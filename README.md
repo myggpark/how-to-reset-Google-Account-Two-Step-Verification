@@ -48,8 +48,6 @@ Google 2FA密钥实际上是：
 ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 ```
 
----
-
 **2. 简单理解**
 
 可以把账号安全理解为两道门。
@@ -73,8 +71,6 @@ ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 所以：
 
 > 2FA安全密钥只是 Google 两步验证中的一种验证方式，也是目前较为简单高效的一种方案。
-
----
 
 **3. 哪些情况建议立即更换2FA密钥？**
 
@@ -103,8 +99,6 @@ ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 Google头像 → 管理你的Google账号 → 安全性
 ```
 
----
-
 ### 第二步：进入“两步验证”管理页面
 
 进入以下路径：
@@ -116,8 +110,6 @@ Google头像 → 管理你的Google账号 → 安全性
 然后找到：
 
 **身份验证器应用**
-
----
 
 ### 第三步：更换验证器
 
@@ -137,8 +129,6 @@ Google头像 → 管理你的Google账号 → 安全性
 - 扫码绑定
 - 同时截图保存二维码，这样可以减少后续风险。
 
----
-
 ### 第四步：保存新的2FA密钥
 
 系统会生成新的密钥，例如：
@@ -155,8 +145,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 - 更换完成后旧密钥会立即失效
 - 新密钥丢失后，账号可能无法恢复
-
----
 
 ### 第五步：验证新的2FA密钥
 
@@ -178,8 +166,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 - Aegis Authenticator
 - Authy
 
----
-
 **方法二：通过在线验证码工具**
 
 适用于暂时没有验证器App的情况。
@@ -199,8 +185,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 完成后：
 
 > 旧密钥与旧二维码会自动失效。
-
----
 
 > 注意：
 >
@@ -223,8 +207,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 **账号极有可能永久无法登录**。
 
----
-
 ### 推荐备份方式
 
 建议至少保存两份：
@@ -233,8 +215,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 - 加密笔记软件
 - 纸质备份
 - 多设备加密保存
-
----
 
 ### 2. 不建议直接关闭2FA验证
 
@@ -249,8 +229,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 - 刚修改安全设置
 
 这些情况下贸然关闭2FA身份验证器，容易触发 Google 风控系统。
-
----
 
 ### 3. 验证器App也存在潜在风险
 
@@ -276,8 +254,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 - 验证器却需要先登录Google账号
   
 最终陷入无法解锁账号的死循环。
-
----
 
 因此非常重要的一点是：
 
