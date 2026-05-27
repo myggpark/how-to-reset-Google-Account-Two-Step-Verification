@@ -318,15 +318,26 @@ Google账号的2FA密钥，是整个账号安全体系中非常核心的一层�
 
 ---
 
-## 相关阅读
+## 📚 **相关文章推荐**
 
-- 《如何开启Google两步验证（2FA）完整教程》
-- 《Gmail安全设置完整指南》
-- 《Google账号异常登录恢复教程》
+- [如何开启Google两步验证（2FA）完整教程](https://www.myggpark.com/google/gmail/2311.html)
+- [Gmail安全设置完整指南](https://www.myggpark.com/google/gmail/2508.html)
+- [如何应对Gmail邮箱被反复封禁](https://www.myggpark.com/google/gmail/2390.html)
+- [Google异常案例分析-谷歌登录时发送验证码到一个陌生的手机号码上怎么办？](https://www.myggpark.com/google/2253.html)
 
 ---
 
-## 标签
+## 🔗 **其他资源**
 
-`Google` `Gmail` `2FA` `双重验证` `身份验证器` `Authenticator` `账号安全`
+- **数智通｜出海研究站**： [myggpark.com](https://www.myggpark.com)  **主页**
+- **数智通｜跨境严选**：[guokezhihui.com](https://www.guokezhihui.com)  **产品**
+- **数智通｜数字甄选**：[edigitalchoice.com](https://www.edigitalchoice.com)  **产品**
+- **数智通｜海外智选**：[accssupply.com](https://www.accssupply.com)  **产品**
+- **数智通｜服务导航站**：[kuajingchoice.com](https://www.kuajingchoice.com)**导航**
+
+
+📺 **YouTube主页**：[https://www.youtube.com/@myggpark](https://www.youtube.com/@myggpark)
+
+📺 **B站视频主页**：[https://space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
+
 
