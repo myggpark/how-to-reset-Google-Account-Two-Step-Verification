@@ -290,8 +290,8 @@ Google账号的2FA密钥，是整个账号安全体系中非常核心的一层�
 
 ## 📚 **相关文章推荐**
 
-- [如何开启Google两步验证（2FA）完整教程](https://www.myggpark.com/google/gmail/2311.html)
-- [Gmail安全设置完整指南](https://www.myggpark.com/google/gmail/2508.html)
+- [如何开启Google两步验证（2FA）完整教程](https://www.myggpark.com/google/2746.html)
+- [Gmail安全设置完整指南](https://www.myggpark.com/google/gmail/2408.html)
 - [如何应对Gmail邮箱被反复封禁](https://www.myggpark.com/google/gmail/2390.html)
 - [Google异常案例分析-谷歌登录时发送验证码到一个陌生的手机号码上怎么办？](https://www.myggpark.com/google/2253.html)
 
