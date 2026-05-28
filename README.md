@@ -18,7 +18,7 @@ description: 详细讲解 Google 账号如何更换 2FA 密钥（TOTP密钥）�
 
 Google账号安全体系中，“两步验证（2FA）”是最重要的一道防护墙之一。
 
-而在启用身份验证器后，系统会生成一串特殊的 **2FA密钥（TOTP密钥）**。
+而在启用身份验证器后，系统会生成一串特殊的 **[2FA 密钥](https://www.myggpark.com/tag/2fa%e5%af%86%e9%92%a5)（TOTP密钥）**。
 
 很多人开启后却不知道：
 
@@ -91,43 +91,32 @@ ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 
 打开 Google 官方安全页面：
 
-**https://myaccount.google.com/security**
+**[https://myaccount.google.com/security](https://myaccount.google.com/security)**
 
 手机端路径：
 
-```text
 Google头像 → 管理你的Google账号 → 安全性
-```
 
 ### 第二步：进入“两步验证”管理页面
 
 进入以下路径：
 
-```text
-安全性 → 两步验证
-```
-
-然后找到：
-
-**身份验证器应用**
+安全性与登录 → 两步验证 → 然后找到【**身份验证器应用**】
 
 ### 第三步：更换验证器
 
-点击：
+点击**更换【身份验证器应用】**
 
-**更换身份验证器应用**
-
-如果无法扫码，可选择：
-
-**无法扫描二维码**
+如果无法扫码，可选择【**无法扫描二维码**】
 
 ⚠️ **个人建议**
 如果是自己使用，建议直接：
 
-下载验证器App：**Authenticator**
+下载验证器App：[**Authenticator**](https://apps.apple.com/us/app/google-authenticator/id388497605)
+
 - 注册验证器App
 - 扫码绑定
-- 同时截图保存二维码，这样可以减少后续风险。
+- 同时**截图保存二维码**，这样可以减少后续风险。
 
 ### 第四步：保存新的2FA密钥
 
@@ -141,10 +130,7 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 > 必须先**复制并保存**，再点击“下一步”。
 
-因为：
-
-- 更换完成后旧密钥会立即失效
-- 新密钥丢失后，账号可能无法恢复
+因为：密钥更换完成后，旧密钥会立即失效；而新密钥丢失后，账号可能无法恢复。
 
 ### 第五步：验证新的2FA密钥
 
@@ -159,22 +145,18 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 3. 扫描二维码或手动输入密钥
 4. 输入生成验证码完成绑定
 
-常见验证器：
-
-- Google Authenticator
-- Microsoft Authenticator
-- Aegis Authenticator
-- Authy
-
 **方法二：通过在线验证码工具**
 
 适用于暂时没有验证器App的情况。
 
 部分在线工具：
 
-**2fa.live**
-**2fa.show**
-**2fa.fun**
+[**2fa.live**](https://2fa.live/)
+
+[**2fa.show**](https://2fa.show/)
+
+[**2fa.fun**](https://www.2fa.fun/)
+
 
 操作流程：
 
