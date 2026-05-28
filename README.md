@@ -164,11 +164,11 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 部分在线工具：
 
-[**2fa.live**](https://2fa.live/)
+- [**2fa.live**](https://2fa.live/)
 
-[**2fa.show**](https://2fa.show/)
+- [**2fa.show**](https://2fa.show/)
 
-[**2fa.fun**](https://www.2fa.fun/)
+- [**2fa.fun**](https://www.2fa.fun/)
 
 操作流程：
 
