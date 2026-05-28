@@ -14,6 +14,7 @@ tags:
   - 2FA
   - Authenticator
 description: 详细讲解 Google 账号如何更换 2FA 密钥（TOTP密钥），包括完整操作流程、安全建议、验证器使用方法与常见风险避坑指南。
+
 ---
 
 Google账号安全体系中，“两步验证（2FA）”是最重要的一道防护墙之一。
@@ -139,6 +140,8 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 这里非常重要：
 
 > 必须先**复制并保存**，再点击“下一步”。
+
+![保存新的2FA密钥](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/保存新的2FA密钥.jpg)
 
 ### 第五步：验证新的2FA密钥
 
