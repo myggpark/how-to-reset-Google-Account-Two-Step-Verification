@@ -155,6 +155,8 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 2. 点击“+”添加账号
 3. 扫描二维码或手动输入密钥
 4. 输入生成验证码完成绑定
+   
+![Authenticator两种办法同时进行](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/Authenticator两种办法同时进行.jpg)
 
 **方法二：通过在线验证码工具**
 
