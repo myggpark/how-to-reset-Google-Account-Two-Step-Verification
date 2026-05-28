@@ -226,6 +226,8 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 这些情况下贸然关闭2FA身份验证器，容易触发 Google 风控系统。
 
+![不要删除身份验证器](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/不要删除身份验证器.jpg)
+
 ### 3. 验证器App也存在潜在风险
 
 虽然验证器整体较为安全，但仍可能出现以下问题：
