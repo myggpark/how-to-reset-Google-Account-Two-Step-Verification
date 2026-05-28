@@ -157,7 +157,6 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 [**2fa.fun**](https://www.2fa.fun/)
 
-
 操作流程：
 
 1. 粘贴新的2FA密钥
@@ -189,7 +188,7 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 
 **账号极有可能永久无法登录**。
 
-### 推荐备份方式
+**推荐备份方式**
 
 建议至少保存两份：
 
