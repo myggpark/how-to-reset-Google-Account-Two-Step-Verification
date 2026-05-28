@@ -176,6 +176,8 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 2. 获取动态验证码
 3. 输入验证码完成验证
 
+![网站获取2FA验证码](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/网站获取2FA验证码.jpg)
+
 完成后：
 
 > 旧密钥与旧二维码会自动失效。
