@@ -108,6 +108,8 @@ Google头像 → 管理你的Google账号 → 安全性
 
 安全性与登录 → 两步验证 → 然后找到【**身份验证器应用**】
 
+![如何找到身份验证码](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/如何找到身份验证码.jpg)
+
 ### 第三步：更换验证器
 
 点击**更换【身份验证器应用】**
