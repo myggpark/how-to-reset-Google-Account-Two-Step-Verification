@@ -94,9 +94,7 @@ ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 
 ### 第一步：进入Google安全中心
 
-打开 Google 官方安全页面：
-
-**[https://myaccount.google.com/security](https://myaccount.google.com/security)**
+打开 Google 官方安全页面：**[https://myaccount.google.com/security](https://myaccount.google.com/security)**
 
 手机端路径：
 
@@ -115,6 +113,8 @@ Google头像 → 管理你的Google账号 → 安全性
 点击**更换【身份验证器应用】**
 
 如果无法扫码，可选择【**无法扫描二维码**】
+
+![更改身份验证器应用-无法扫描](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/更改身份验证器应用-无法扫描.jpg)
 
 ⚠️ **个人建议**
 如果是自己使用，建议直接：
