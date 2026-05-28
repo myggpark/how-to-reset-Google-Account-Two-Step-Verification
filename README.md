@@ -117,6 +117,7 @@ Google头像 → 管理你的Google账号 → 安全性
 ![更改身份验证器应用-无法扫描](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/更改身份验证器应用-无法扫描.jpg)
 
 ⚠️ **个人建议**
+
 如果是自己使用，建议直接：
 
 下载验证器App：[**Authenticator**](https://apps.apple.com/us/app/google-authenticator/id388497605)
@@ -124,6 +125,8 @@ Google头像 → 管理你的Google账号 → 安全性
 - 注册验证器App
 - 扫码绑定
 - 同时**截图保存二维码**，这样可以减少后续风险。
+
+![Authenticator扫码二维码获取验证码](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/Authenticator扫码二维码获取验证码.jpg)
 
 ### 第四步：保存新的2FA密钥
 
