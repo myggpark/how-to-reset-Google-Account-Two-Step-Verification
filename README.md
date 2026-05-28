@@ -272,6 +272,8 @@ WYSU CORQ SMTR BF6W QQNX BVDH BTUV 7OZY
 - Google提示
 - 备用验证码
 
+![二步验证全部打开](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/二步验证全部打开.jpg)
+
 ---
 
 ## 总结
