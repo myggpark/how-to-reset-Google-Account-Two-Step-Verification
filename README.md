@@ -48,6 +48,8 @@ Google 2FA密钥实际上是：
 ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 ```
 
+![Google账号发货格式](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/Google账号发货格式.jpg)
+
 **2. 简单理解**
 
 可以把账号安全理解为两道门。
@@ -55,6 +57,7 @@ ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456
 **第一层：账号密码**
 
 属于基础验证。
+![Google登录第一道防线](https://github.com/myggpark/how-to-reset-Google-Account-Two-Step-Verification/blob/main/2-Google登录第一道防线.jpg.jpg)
 
 **第二层：两步验证**
 
